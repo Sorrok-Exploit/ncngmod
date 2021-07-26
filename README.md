@@ -1,9 +1,9 @@
 # ncngmod
 SCRIPT AUTO CLAIM COIN APK INDO TODAY
 
-- MASUKKAN KODE UNDANGAN : STK6EP
+- KODE UNDANGAN : STK6EP
 
-- cara menggunakan
+# cara menggunakan
 - cd ncngmod
 - ls
 - php ncngmod.php
